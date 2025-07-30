@@ -17,4 +17,4 @@ En simpel, moderne og mørk website-template med glødende effekter og nem struk
 
 1. Download eller clone repository:  
    ```bash
-   git clone https://github.com/Ukendtx__/SimpleWebTemplate.git
+   git clone https://github.com/Ukendtx/SimpleWebTemplate
