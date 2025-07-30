@@ -6,7 +6,7 @@ En simpel, moderne og mørk website-template med glødende effekter og nem struk
 
 ## Funktioner
 
-- Mørkt tema med lilla og grå farver  
+- Mørkt tema med rød og grå farver  
 - Glød- og hover-effekter på knapper og links  
 - Responsivt layout, der virker på både desktop og mobil  
 - Nem at tilpasse og udvide med egne sektioner og grafik  
